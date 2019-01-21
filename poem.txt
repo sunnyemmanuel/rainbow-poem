@@ -9,6 +9,7 @@ green
 unicorn
 yellow
 indigo
+recycle!
 These are  the colors of rainbow 
 and the unicorn
 pony
